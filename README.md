@@ -2,7 +2,7 @@
 
 
 - 🔭 Buscando vagas para trabalhar com  front-end
-- 🌱 Estudando React, JavaScript.
+- 🌱 Estudando React, JavaScript, Java.
 - 😄 Pronouns: ele/dele
 
 <div>
