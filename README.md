@@ -1,8 +1,8 @@
 ### Olá, Eu sou o Julio Barbosa!
 
 
-- 🔭 Buscando vagas para trabalhar com  front-end
-- 🌱 Estudando React, JavaScript, Java.
+- 🔭 Buscando vagas para trabalhar na área de Dados.
+- 🌱 Estudando React, JavaScript, SQL, Python.
 - 😄 Pronouns: ele/dele
 
 <div>
